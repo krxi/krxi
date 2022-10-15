@@ -9,9 +9,9 @@
 
 
 </h1>
-<p align=right>
-<a href="https://discord.com/users/827620011706155008"><img src="https://discord.c99.nl/widget/theme-4/827620011706155008.png" width=40%></a>
- <a href="https://discord.com/users/827620011706155008"><img src="https://github.com/zSnails/neco-annoying/blob/master/neco.png" width=10%></a>
+<p >
+<a href="https://discord.com/users/827620011706155008"><img src="https://discord.c99.nl/widget/theme-4/827620011706155008.png" width=40% align=right></a>
+ <a href="https://discord.com/users/827620011706155008"><img src="https://github.com/zSnails/neco-annoying/blob/master/neco.png" width=10% align=left></a>
  
  </p>
 
