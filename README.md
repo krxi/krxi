@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Keaju</h1>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Neco-arc forever!</h3>
 <p align="left">
 </p>
 <h1 align="left">
 
-![buranyuu](https://cdn.discordapp.com/app-icons/911928647278006282/0dcc63b859dbb39b6286fc3de16d0d0c.png?size=256)
+
 
 </h1>
 <p align=right>
 <a href="https://discord.com/users/827620011706155008"><img src="https://discord.c99.nl/widget/theme-4/827620011706155008.png" width=40%></a>
+ ![buranyuu](https://cdn.discordapp.com/app-icons/911928647278006282/0dcc63b859dbb39b6286fc3de16d0d0c.png?size=256)
  </p>
 
 
