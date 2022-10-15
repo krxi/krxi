@@ -1,2 +1,9 @@
-# keaju
-s
+<p align=center>
+<a href="https://discord.com/users/827620011706155008"><img src="https://discord.c99.nl/widget/theme-4/703179231886049341.png" width=50%></a>
+ </p>
+ <p align="center"><img src="https://github.com/zSnails/neco-annoying/blob/master/neco.png" alt=":addi00000" /></p>
+<h1 align="center">
+
+![buranyuu](https://cdn.discordapp.com/app-icons/911928647278006282/0dcc63b859dbb39b6286fc3de16d0d0c.png?size=256)
+
+</h1>  
