@@ -11,7 +11,7 @@
 </h1>
 <p >
 <a href="https://discord.com/users/827620011706155008"><img src="https://discord.c99.nl/widget/theme-4/827620011706155008.png" width=40% align=right></a>
- <a href="https://discord.com/users/827620011706155008"><img src="https://github.com/zSnails/neco-annoying/blob/master/neco.png" width=20% align=left></a>
+ <a href="https://discord.com/users/827620011706155008"><img src="https://github.com/zSnails/neco-annoying/blob/master/neco.png" width=15% align=left></a>
  
  </p>
 
