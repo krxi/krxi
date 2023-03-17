@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keaju</h1>
 
 
-<h3 align="center">Neco-arc forever!</h3>
-<p align="left">
-</p>
-<h1 align="left">
+
 
 
 
